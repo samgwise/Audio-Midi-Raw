@@ -7,7 +7,7 @@ use Numeric::Pack :ALL;
 
 =head1 Audio::Midi::Raw
 
-Mappable - a primitive interface to simple MIDI files
+Audio::Midi::Raw - a primitive interface to simple MIDI files
 
 =head1 SYNOPSIS
 
