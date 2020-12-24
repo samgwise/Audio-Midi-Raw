@@ -1,0 +1,25 @@
+{
+  "authors": [
+    "Sam Gillespie"
+  ],
+  "build-depends": [],
+  "depends": [
+    "Numeric::Pack:ver<0.4.1>"
+  ],
+  "description": "A primitive interface to simple MIDI files",
+  "license": "Artistic-2.0",
+  "name": "Mappable",
+  "perl": "6.d",
+  "provides": {
+    "Mappable": "lib/Audio/Midi/Raw.pm6"
+  },
+  "resources": [],
+  "source-url": "",
+  "tags": [
+    "Music",
+    "Midi",
+    "SMF"
+  ],
+  "test-depends": [],
+  "version": "0.0.1"
+}
